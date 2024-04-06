@@ -977,8 +977,8 @@ void Main()
     upper.y=1024;
     upper.z=0;
 
-    size.x=8;
-    size.y=8;
+    size.x=32;
+    size.y=32;
 
 	length = upper.x/size.x;
 
